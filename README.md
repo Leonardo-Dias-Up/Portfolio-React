@@ -10,8 +10,6 @@
 
 👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React 
 
-### ✨ [Live Demo](http://www.shubhporwal.me/)
-
 ## Getting Started 
 
 In the project directory, you can run:
