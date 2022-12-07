@@ -1,9 +1,8 @@
 export const METADATA = {
   title: "Portfolio | Shubh Porwal",
   description:
-    "Shubh Porwal is a Full Stack Developer from Kuwait, interested in crafting beautiful and functional applications. Shubh is pursuing his undergraduate from Pandit Deendayal Energy University, Gujarat.",
-  siteUrl: "https://shubhporwal.com/",
-  twitterHandle: "@shubh731",
+    "Leonardo Dias is a Full Stack Developer from Brasil, interested in crafting beautiful and functional applications.",
+  siteUrl: "https://localhost.com/",
 };
 
 export const MENULINKS = [
@@ -38,23 +37,23 @@ export const TYPED_STRINGS = [
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: leonardo.ecodias@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
+    url: "",
   },
   {
     name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
+    url: "",
   },
   {
     name: "twitter",
-    url: "https://twitter.com/shubh731",
+    url: "",
   },
 ];
 
@@ -96,7 +95,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/airbnb-blur.webp",
     description: "Airbnb UI clone using NextJS + Tailwind CSS 🛏️",
     gradient: ["#F14658", "#DC2537"],
-    url: "https://shubh73-airbnb.vercel.app/",
+    url: "",
     tech: ["react", "nextjs", "tailwindcss", "mapbox"],
   },
   // {
